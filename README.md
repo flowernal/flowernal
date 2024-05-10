@@ -1,6 +1,6 @@
 <div align="center">
-  <h1><a href="https://flowern.al/">flowernal</a></h1>
-  <p>Hello! I'm <b>flowernal</b>, a young programmer from <b>Slovakia</b>!</p>
+  <h1>flowernal</h1>
+  <p>Hello! I'm <a href="https://flowernal.dev">flowernal</a>, a young programmer from <b>Slovakia</b>!</p>
   <p>I'm currently studying at <b>SPŠ Stará Turá</b></p>
   <p>Future student of <b>VUT FIT</b></p>
   

@@ -7,6 +7,8 @@
   <img src="https://pbs.twimg.com/media/E4qh2ezX0AMUZIb.png" />
   
   <p><b>My favourite languages:</b> <code>Rust, TypeScript, C#</code></p>
+
+  <a rel="me" href="https://mastodon.social/@flowernal">Mastodon</a>
   
   <footer>´･ᴗ･`</footer>
 </div>

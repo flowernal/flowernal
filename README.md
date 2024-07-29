@@ -2,7 +2,7 @@
   <h1>flowernal</h1>
   <p>Hello! I'm <a href="https://flowernal.dev">flowernal</a>, a young programmer from <b>Slovakia</b>!</p>
   <p>Graduated from <a href="http://www.sosst.sk/zsse/">SPŠ Stará Turá</a></p>
-  <p>Future student @ <a href="https://www.fit.vut.cz/.en">BUT FIT</a></p>
+  <p>Currently studying @ <a href="https://www.fit.vut.cz/.en">VUT FIT</a></p>
   
   <img src="https://pbs.twimg.com/media/E4qh2ezX0AMUZIb.png" />
   

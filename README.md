@@ -1,8 +1,8 @@
 <div align="center">
   <h1>flowernal</h1>
   <p>Hello! I'm <a href="https://flowernal.dev">flowernal</a>, a young programmer from <b>Slovakia</b>!</p>
-  <p>Graduated from <a href="http://www.sosst.sk/zsse/">SPŠ Stará Turá</a></p>
-  <p>Currently studying @ <a href="https://www.fit.vut.cz/.en">VUT FIT</a></p>
+  <p><b>I currently study at:</b></p>
+  <a href="https://www.fit.vut.cz/.en"><img src="https://flowernal.dev/images/VUT_FIT.png" width=80 /></a><br /><br />
   
   <img src="https://pbs.twimg.com/media/E4qh2ezX0AMUZIb.png" />
   
